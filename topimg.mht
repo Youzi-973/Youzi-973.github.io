@@ -1,0 +1,53 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://html5.bjsxt.cn/api/index/banner
+Subject: 
+Date: Mon, 3 Oct 2022 02:40:09 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Zux5Ll1pVmDFtBi63RwkXM6eN9cWDRqJdnMQadOL0A----"
+
+
+------MultipartBoundary--Zux5Ll1pVmDFtBi63RwkXM6eN9cWDRqJdnMQadOL0A----
+Content-Type: text/html
+Content-ID: <frame-D0E38E939FD9DA812D7D1772A8AC8677@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://html5.bjsxt.cn/api/index/banner
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f17caa=
+d5-b969-409d-b0f6-2b82ef85c744@mhtml.blink" /><meta name=3D"color-scheme" c=
+ontent=3D"light dark"></head><body><pre style=3D"word-wrap: break-word; whi=
+te-space: pre-wrap;">{"top_banner":[{"img_url":"https:\/\/www.itbaizhan.com=
+\/public\/api\/index\/banner3.png","url":"\/pages\/course\/courseIntroduce\=
+/courseIntroduce?id=3D4&amp;course=3Dno"},{"img_url":"https:\/\/www.itbaizh=
+an.com\/public\/api\/index\/banner4.png","url":"\/pages\/course\/courseIntr=
+oduce\/courseIntroduce?id=3D4&amp;course=3Dno"},{"img_url":"https:\/\/www.i=
+tbaizhan.com\/public\/api\/index\/banner1.png","url":"\/pages\/course\/cour=
+seIntroduce\/courseIntroduce?id=3D4&amp;course=3Dno"},{"img_url":"https:\/\=
+/www.itbaizhan.com\/public\/api\/index\/banner2.png","url":"\/pages\/course=
+\/courseIntroduce\/courseIntroduce?id=3D31&amp;course=3Dno"}],"index_banner=
+":{"img_url":"https:\/\/www.itbaizhan.com\/public\/api\/index\/onlineimg.pn=
+g?v=3D1.0.0"},"foot_banner":{"img_url":"https:\/\/www.itbaizhan.com\/public=
+\/api\/index\/runimg.png"}}</pre></body></html>
+------MultipartBoundary--Zux5Ll1pVmDFtBi63RwkXM6eN9cWDRqJdnMQadOL0A----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f17caad5-b969-409d-b0f6-2b82ef85c744@mhtml.blink
+
+@charset "utf-8";
+
+.msreadout-word-highlight:not(.msreadout-inactive-highlight) { background: =
+rgb(255, 255, 0) !important; color: black !important; }
+
+.msreadout-line-highlight:not(.msreadout-inactive-highlight) { background: =
+rgb(178, 214, 243) !important; color: black !important; }
+
+@media screen and (-ms-high-contrast: active) {
+  .msreadout-word-highlight:not(.msreadout-inactive-highlight) { forced-col=
+or-adjust: none; background-color: highlight !important; color: highlightte=
+xt !important; }
+  .msreadout-line-highlight:not(.msreadout-inactive-highlight) { forced-col=
+or-adjust: none; background: yellow !important; color: black !important; }
+}
+------MultipartBoundary--Zux5Ll1pVmDFtBi63RwkXM6eN9cWDRqJdnMQadOL0A------
